@@ -8,7 +8,7 @@
 <img src="image/test.png" width="350" height="350">
 
 ## 使い方
-`>>` monte-carlo-pi <br>
+`>>` test <br>
 piの推定値は〇〇
 
 ## 文責
